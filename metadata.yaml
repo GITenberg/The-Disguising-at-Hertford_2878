@@ -1,0 +1,26 @@
+_repo: The-Disguising-at-Hertford_2878
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lydgate, John
+    alias: Lidgate, John
+    gutenberg_agent_id: '1059'
+    url: http://www.gutenberg.org/2009/agents/1059
+    wikipedia: http://en.wikipedia.org/wiki/John_Lydgate
+description: ''
+gutenberg_issued: '2001-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2878'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage -- Drama'
+- !lcsh 'England -- Drama'
+- !lcsh 'Comedy'
+- !lcc 'PR'
+- GITenberg
+title: The Disguising at Hertford
+url: http://www.gutenberg.org/ebooks/2878
