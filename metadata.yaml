@@ -1,5 +1,8 @@
 _repo: The-Disguising-at-Hertford_2878
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lydgate, John
@@ -8,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1059
     wikipedia: http://en.wikipedia.org/wiki/John_Lydgate
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2878#The-Disguising-at-Hertford
 gutenberg_issued: '2001-10-01'
 gutenberg_type: Text
 identifiers:
